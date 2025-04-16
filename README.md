@@ -46,7 +46,7 @@ You need to press this button to download the file
 
 <img src="./doc/save.png" alt="Save file" width="200"/>
 
-9 - You can now edit advanced features of ther adio such as 2,5khz step and microphone gain settings
+9 - You can now edit advanced features of the radio such as 2,5khz step, bands, tx power levels and microphone gain.
 
 <img src="./doc/advoptions.png" alt="Advanced settings" width="600"/>
 <img src="./doc/micoptions.png" alt="Mic settings" width="600"/>
