@@ -28,7 +28,7 @@ You need to press this button to download the file
 
 5 - Open the option `File->Load Module`. If this option does not appear, make sure that you've enabled developer mode and **restart** Chirp
 
-<img src="./doc/devwarn2.png" alt="Load module" width="400"/>
+<img src="./doc/loadmod.png" alt="Load module" width="400"/>
 
 6 - Select the driver file you've downloaded in step #2
 
