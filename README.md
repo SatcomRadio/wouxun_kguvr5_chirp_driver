@@ -14,7 +14,7 @@ To run it, please follow this instructions:
 
 You need to press this button to download the file
 
-<img src="./doc/download.png" alt="Download driver" width="400"/>
+<img src="./doc/download.png" alt="Download driver" width="600"/>
 
 3 - Open Chirp and enable developer mode
 
@@ -32,7 +32,7 @@ You need to press this button to download the file
 
 6 - Select the driver file you've downloaded in step #2
 
-<img src="./doc/modselect.png" alt="Select driver" width="400"/>
+<img src="./doc/modselect.png" alt="Select driver" width="600"/>
 
 7 - Select the option `Radio->Download from radio` to read the radio configuration
 
@@ -42,19 +42,23 @@ You need to press this button to download the file
 
 <img src="./doc/modelselect.png" alt="Radio model select" width="400"/>
 
-9 - Make a backup of your file by going to `File->Save As` and save it as `OriginalFW`
+9 - Make a backup of your file by going to `File->Save As` and save it as `OriginalFW.img`
 
 <img src="./doc/save.png" alt="Save file" width="200"/>
 
 9 - You can now edit advanced features of ther adio such as 2,5khz step and microphone gain settings
 
-<img src="./doc/advoptions.png" alt="Advanced settings" width="400"/>
-<img src="./doc/micoptions.png" alt="Mic settings" width="400"/>
+<img src="./doc/advoptions.png" alt="Advanced settings" width="600"/>
+<img src="./doc/micoptions.png" alt="Mic settings" width="600"/>
 
-10 - Once you are happy with the results go again to `File->Save As` and save it as `ModdedFW`
+10 - Once you are happy with the results go again to `File->Save As` and save it as `ModdedFW.img`
 
 <img src="./doc/save.png" alt="Save file" width="200"/>
 
 11 - You can now write the changes to the radio by going to `Radio->Upload to radio`
 
 <img src="./doc/upload.png" alt="Save file" width="200"/>
+
+-----
+
+In case you need an original firmware, [here](https://github.com/SatcomRadio/wouxun_kguvr5_chirp_driver/blob/main/Wouxun_KG-UVR5.img) you can download mine
